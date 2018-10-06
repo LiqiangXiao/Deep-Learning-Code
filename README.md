@@ -1,3 +1,3 @@
 # Some sophisticate models with pytorch
-This library provide some models revised from rape method!
+This library provides some models revised from ripe method!
 
